@@ -25,7 +25,7 @@ function Hero() {
             <FadeIn>
                 <div className="hero-info-container">
                     <div className="hero-info">
-                        <Raise>
+                        {/* <Raise> */}
                             <div className="hero-info__div info-1">
                                 <span className="info-stats">200 members</span><br />
                                 in the community
@@ -42,7 +42,7 @@ function Hero() {
                                 <span className="info-stats">4 years</span><br />
                                 of trusted teaching and collaboration
                             </div>
-                        </Raise>
+                        {/* </Raise> */}
                     </div>
                 </div>
             </FadeIn>
